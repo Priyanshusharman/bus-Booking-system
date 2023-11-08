@@ -1,0 +1,17 @@
+To run this app with the entry point "index," follow these steps:
+
+Uncomment Database Lines: Begin by uncommenting the database configuration lines. then  execute the database file.
+
+Add an Operator: As the first step, you need to add an operator. Operators are responsible for managing various aspects of the application.
+
+Create a New Route: Define new routes in your app. Routes typically represent specific journeys, so provide details about the starting and ending points, stops, and other relevant information for each route.
+
+Add a New Bus: Add a new bus to your system. Buses are vehicles that operate on your defined routes. Specify details such as the bus model, capacity, and registration information.
+
+Create a New Run: In the context of a transportation app, a "run" usually refers to a scheduled journey of a specific bus on a particular route at a designated time. Set up new runs for your buses on the defined routes.
+
+Book a Ticket: Your app should allow users to easily book tickets for their chosen journeys. The booking process should involve selecting a route, a run, and specifying the number of tickets needed.
+
+Check Tickets by Phone Number: Enable users to check their booked tickets by providing their phone number. This should be a straightforward process.
+
+By following these steps, you can effectively run the app, manage operators, routes, buses, runs, and allow users to book tickets while offering a convenient way to check their reservations using their phone numbers.
