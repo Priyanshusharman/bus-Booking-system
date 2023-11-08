@@ -12,7 +12,7 @@ cur=con.cursor()
 
 #cur.execute('select * from route')
 
-#cur.execute('insert into operator values(1,"kamala","uper wali pahari,guna","kmala@gmail.com",9900990044)')
+#cur.execute('insert into operator values(1,"kamala","uper wali pahari,guna","kamala@gmail.com",9900990044)')
 
 #cur.execute('select * from operator')
 
